@@ -4,6 +4,4 @@ numpy
 soundfile==0.9.0
 sklearn
 pipwin
-portaudio19-dev
-python-all-dev
 pyaudio==0.2.11
