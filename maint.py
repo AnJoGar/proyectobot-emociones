@@ -4,7 +4,7 @@ import subprocess
 from test import main
 
 
-bot = telebot.TeleBot('1873125200:AAF73shDUqqH7Q5wNzhi9X9ThaYP9j5T_Uk')
+bot = telebot.TeleBot(' 1840113599:AAEhV28T3my6erhtUo0kxC3F9h7PQNREnGI')
 
 
 @bot.message_handler(content_types=['voice'])
