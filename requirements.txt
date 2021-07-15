@@ -57,7 +57,7 @@ pipwin==0.5.1
 platformdirs==2.0.2
 pooch==1.4.0
 prompt-toolkit==3.0.19
-PyAudio @ file:///C:/Users/usuario/pipwin/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+PyAudio @ file:///C:/Users/usuario/pipwin/PyAudio-0.2.11-cp39-cp39-win32.whl
 pycparser==2.20
 Pygments==2.9.0
 pyinstaller==4.3
