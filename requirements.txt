@@ -1,10 +1,4 @@
-telebot
-librosa==0.6.3
-numpy
-soundfile==0.9.0
-sklearn
-pipwin
-pyaudio==0.2.11
+
 altgraph==0.17
 appdirs==1.4.4
 APScheduler==3.6.3
